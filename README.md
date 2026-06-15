@@ -4,7 +4,7 @@ A flashcard web application for checking English word translations with differen
 
 ## Live Demo
 
-https://alexandrabalinskaiya.github.io/lr12/
+https://alexandrabalinskaiya.github.io/language-learning-flashcards-advanced/
 
 ## Description
 
